@@ -9,7 +9,7 @@ This project is a web scraper for real estate listings from Otodom. It uses Sele
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/otodom-scraper.git
+    git clone https://github.com/marceli-ptak/web-scraping.git 
     ```
 2. Navigate to the project directory:
     ```bash
@@ -39,7 +39,9 @@ To run the scraper, execute the following command:
 python otodom-scraper.py
 ```
 
-The scraped data will be saved in the project directory as a CSV file.
+The scraped data will be saved in the project directory as a CSV file.  
+Example file with scraped data is attached to the repository under the name otodom_listings.csv.
+
 
 ## Support
 If you encounter any issues, feel free to contact me.
